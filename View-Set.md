@@ -15,6 +15,7 @@
 <img src="rEFInd-Shadow-IOS/os_chakra.png" alt="Github Project" style="width:20%;">
 <img src="rEFInd-Shadow-IOS/os_clear.png" alt="Github Project" style="width:20%;">
 <img src="rEFInd-Shadow-IOS/os_clover.png" alt="Github Project" style="width:20%;">
+<img src="rEFInd-Shadow-IOS/os_chrome.png" alt="Github Project" style="width:20%;">
 <img src="rEFInd-Shadow-IOS/os_crunchbang.png" alt="Github Project" style="width:20%;">
 <img src="rEFInd-Shadow-IOS/os_debian.png" alt="Github Project" style="width:20%;">
 <img src="rEFInd-Shadow-IOS/os_deepin.png" alt="Github Project" style="width:20%;">
@@ -57,6 +58,7 @@
 <img src="rEFInd-Shadow-IOS/os_openmandriva.png" alt="Github Project" style="width:20%;">
 <img src="rEFInd-Shadow-IOS/os_opensuse.png" alt="Github Project" style="width:20%;">
 <img src="rEFInd-Shadow-IOS/os_parrot.png" alt="Github Project" style="width:20%;">
+<img src="rEFInd-Shadow-IOS/os_pmagic.png" alt="Github Project" style="width:20%;">
 <img src="rEFInd-Shadow-IOS/os_pc.png" alt="Github Project" style="width:20%;">
 <img src="rEFInd-Shadow-IOS/os_peppermint.png" alt="Github Project" style="width:20%;">
 <img src="rEFInd-Shadow-IOS/os_phoenix.png" alt="Github Project" style="width:20%;">
