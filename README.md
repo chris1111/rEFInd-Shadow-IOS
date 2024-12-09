@@ -20,4 +20,11 @@ View Site ➤ [rEFInd-Shadow-IOS](https://chris1111.github.io/rEFInd-Shadow-IOS/
 ### rEFIndPlus
 <img src="Screenshot/screenshot_003.png" alt="Github Project" style="width:100%;">
 <img src="Screenshot/screenshot_004.png" alt="Github Project" style="width:100%;">
- 
+
+My Other theme ⬇︎
+
+[Shadow-rEFInd](https://github.com/chris1111/Shadow-rEFInd)
+
+[Icon-Set-DarkGrey-Refind](https://github.com/chris1111/Icon-Set-DarkGrey-Refind)
+
+[rEFInd-Metal-Frame](https://github.com/chris1111/rEFInd-Metal-Frame) 
