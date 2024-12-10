@@ -25,6 +25,6 @@ My Other theme ⬇︎
 
 [Shadow-rEFInd](https://github.com/chris1111/Shadow-rEFInd)
 
-[Icon-Set-DarkGrey-Refind](https://github.com/chris1111/Icon-Set-DarkGrey-Refind)
-
 [rEFInd-Metal-Frame](https://github.com/chris1111/rEFInd-Metal-Frame) 
+
+[Icon-Set-DarkGrey-Refind](https://github.com/chris1111/Icon-Set-DarkGrey-Refind)
