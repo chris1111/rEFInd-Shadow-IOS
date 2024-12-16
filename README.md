@@ -28,3 +28,5 @@ My Other theme ⬇︎
 [rEFInd-Metal-Frame](https://github.com/chris1111/rEFInd-Metal-Frame) 
 
 [Icon-Set-DarkGrey-Refind](https://github.com/chris1111/Icon-Set-DarkGrey-Refind)
+
+Icon base on [distro icons](https://www.dropbox.com/s/uhl8sz1gwse2zd6/distro_icons.zip?dl=0)
