@@ -99,4 +99,4 @@
 <img src="rEFInd-Shadow-IOS/icons/banner.png" alt="Github Project" style="width:80%;">
 <img src="rEFInd-Shadow-IOS/icons/banner-plus.png" alt="Github Project" style="width:80%;">
 
-[Back On ➦ Top](https://github.com/chris1111/rEFInd-Shadow-IOS/icons/blob/main/View-Set.md#view-set)
+[Back On ➦ Top](https://github.com/chris1111/rEFInd-Shadow-IOS/blob/main/View-Set.md#view-set-refind-shadow-iosicons)
