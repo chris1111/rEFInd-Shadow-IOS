@@ -7,7 +7,7 @@
 View ➤ [Ison Set](https://github.com/chris1111/rEFInd-Shadow-IOS/blob/main/View-Set.md)
 View ➤ [All Icons](https://github.com/chris1111/rEFInd-Shadow-IOS/tree/main/rEFInd-Shadow-IOS)
 
-Configuration ➤ [Refind config](https://github.com/chris1111/rEFInd-Shadow-IOS/blob/main/rEFInd-Shadow-IOS-Refind.conf)
+Configuration ➤ [Refind config](https://github.com/chris1111/rEFInd-Shadow-IOS/blob/main/theme.conf)
 
 Download Icons Set ➤ [rEFInd-Shadow-IOS.zip](https://github.com/chris1111/rEFInd-Shadow-IOS/raw/refs/heads/main/rEFInd-Shadow-IOS.zip)
 
